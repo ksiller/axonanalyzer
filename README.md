@@ -1,3 +1,4 @@
-# best_tau_analysis
+# Axon Analyzer
 
-Image processing script for analysis of Tau protein distribution.
+Image processing script for morphometric analysis of axons.
+
